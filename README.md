@@ -63,4 +63,5 @@ The real-world demo involved navigating the car in an infinity-shaped track usin
 Implementation:
 Using Pure Pursuit Algorithm and Tuned the look-ahead distance to guide the car accurately through the designated waypoints, ensuring smooth and controlled movement.
 
+![Screenshot 2024-09-03 000451](https://github.com/user-attachments/assets/ef4ac955-68d5-44a5-a0a0-70189a8bd39d)
 ![1724601166992](https://github.com/user-attachments/assets/03f4fdd3-591f-4ba8-9a0f-41a69ffab79f)
