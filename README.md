@@ -26,8 +26,9 @@ Tools Used:
 ROS1
 CoppeliaSim
 Algorithm: The vehicle was moved based on timed intervals, utilizing a Python timer to control the sequence of movements.
-
-![image](https://github.com/user-attachments/assets/c7023b96-41a7-43e5-80bd-4fd0c362f79b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7023b96-41a7-43e5-80bd-4fd0c362f79b" alt="Description">
+</p>
 
 
 ## Milestone 2: Closed Loop Control & Object Detection
@@ -37,16 +38,22 @@ Task 1:
 Implement a closed-loop controller to navigate the car, leveraging odometry feedback for precise movement. To simulate real-world conditions, Gaussian noise was added to the odometry data, making the system more realistic. The readings were then refined and stabilized using a Kalman filter algorithm, enhancing the overall accuracy and reliability of the car's navigation.
 - Gaussian Noise established from Matlab.
 - Kalman Filter.
-
-![image](https://github.com/user-attachments/assets/61535a55-c94a-49ac-8755-ba86168e83ac)
-![image](https://github.com/user-attachments/assets/59bc54f0-915a-4ccc-8f5e-70f204ea716a)
-![image](https://github.com/user-attachments/assets/c2a1951f-c1e3-46ca-9080-d78c3c67dab4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61535a55-c94a-49ac-8755-ba86168e83ac" alt="Description">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59bc54f0-915a-4ccc-8f5e-70f204ea716a" alt="Description">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2a1951f-c1e3-46ca-9080-d78c3c67dab4" alt="Description">
+</p>
 
 Task 2: 
 Perform object detection within the simulation environment. This involved detecting both static and dynamic objects such as humans, cars, and cones. We achieved this by training a YOLOv7 model and quantizing it for efficient, real-time object detection using ONNX.
 
-![image_](https://github.com/user-attachments/assets/941307ad-5054-482e-a782-3ca840631a1b)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/941307ad-5054-482e-a782-3ca840631a1b" alt="Description">
+</p>
 
 ## Milestone 3: Advanced Computer Vision and Adaptive Cruise Control
 In the final milestone, the focus was on:
@@ -55,13 +62,19 @@ Implementing computer vision capabilities to detect humans and trigger emergency
 Detecting obstacles on the road and changing lanes when possible.
 Using LIDAR sensors for adaptive cruise control, allowing the car to match the speed of the vehicle ahead.
 
-![image](https://github.com/user-attachments/assets/6ba06264-cc61-4070-976c-a89d222fffbf)
-![image](https://github.com/user-attachments/assets/238dd880-6c18-46ba-90eb-a92447b97ee9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ba06264-cc61-4070-976c-a89d222fffbf" alt="Description">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/238dd880-6c18-46ba-90eb-a92447b97ee9" alt="Description">
+</p>
 
 # Real-World Demo Competition 2nd place
 The real-world demo involved navigating the car in an infinity-shaped track using a closed-loop controller.
 Implementation:
 Using Pure Pursuit Algorithm and Tuned the look-ahead distance to guide the car accurately through the designated waypoints, ensuring smooth and controlled movement.
 
-![Screenshot 2024-09-03 000451](https://github.com/user-attachments/assets/ef4ac955-68d5-44a5-a0a0-70189a8bd39d)
-![1724601166992](https://github.com/user-attachments/assets/03f4fdd3-591f-4ba8-9a0f-41a69ffab79f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef4ac955-68d5-44a5-a0a0-70189a8bd39d" alt="Description">
+  <img src="https://github.com/user-attachments/assets/03f4fdd3-591f-4ba8-9a0f-41a69ffab79f" alt="Description">
+</p>
