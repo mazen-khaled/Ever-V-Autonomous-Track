@@ -3,8 +3,10 @@ As the Autonomous Team Leader at the Shoubra Racing Team, I had the privilege of
 Our efforts in the simulation competition earned us the 1st place in technical performance and 3rd place overall.
 In the real demo, we secured an impressive 2nd place overall.
 
-![IMG-20240817-WA0009](https://github.com/user-attachments/assets/bfacdccf-0dc7-47d6-ad95-32700072b769)
 ![SAVE_20240818_123336](https://github.com/user-attachments/assets/06f9d955-cc76-4778-aa8b-a14310f05868)
+
+### My Team
+![IMG-20240817-WA0009](https://github.com/user-attachments/assets/bfacdccf-0dc7-47d6-ad95-32700072b769)
 
 
 # Simulation Competition 1st technical 3rd overall
