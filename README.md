@@ -6,8 +6,8 @@ In the real demo, we secured an impressive 2nd place overall.
 ### My Team
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dfe43854-4209-4f7e-8e87-e057c191dafc" alt="Picture3" width="600"/>
-  <img src="https://github.com/user-attachments/assets/bfacdccf-0dc7-47d6-ad95-32700072b769" alt="Picture3" width="600"/>
+  <img src="https://github.com/user-attachments/assets/dfe43854-4209-4f7e-8e87-e057c191dafc" alt="Picture3" width="300" display="flex"/>
+  <img src="https://github.com/user-attachments/assets/bfacdccf-0dc7-47d6-ad95-32700072b769" alt="Picture3" width="415" display="flex"/>
 </p>
 
 
