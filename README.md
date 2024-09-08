@@ -74,9 +74,9 @@ Using LIDAR sensors for adaptive cruise control, allowing the car to match the s
 # Real-World Demo Competition 2nd place
 The real-world demo involved navigating the car in an infinity-shaped track using a closed-loop controller.
 Implementation:
-Using Pure Pursuit Algorithm and Tuned the look-ahead distance to guide the car accurately through the designated waypoints, ensuring smooth and controlled movement.
+Using Pure Pursuit Algorithm and Tuned the look-ahead distance to guide the car accurately through the designated waypoints to make the car moves in infinity shape, ensuring smooth and controlled movement.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef4ac955-68d5-44a5-a0a0-70189a8bd39d" alt="Description">
-  <img src="https://github.com/user-attachments/assets/03f4fdd3-591f-4ba8-9a0f-41a69ffab79f" alt="Description">
+  <img src="https://github.com/user-attachments/assets/141ee098-44c4-4c42-9e25-9ed85cb44960" alt="Description">
 </p>
