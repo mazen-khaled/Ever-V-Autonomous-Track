@@ -19,26 +19,24 @@ The competition was divided into three key milestones:
 All the given environment is designed by us.
 
 ## Milestone 1: Open Loop Control
-In this milestone, the objective was to maneuver the car through open-loop tracks, including:
-
-Straight Line
-Straight Line with Lane Change
-Circular Track
-Infinity Shape Track
-Tools Used:
-
-ROS1
-CoppeliaSim
-Algorithm: The vehicle was moved based on timed intervals, utilizing a Python timer to control the sequence of movements.
+### In this milestone, the objective was to maneuver the car through open-loop tracks, including:
+  - Straight Line
+  - Straight Line with Lane Change
+  - Circular Track
+  - Infinity Shape Track
+### Tools Used:
+  - ROS1
+  - CoppeliaSim
+  - Algorithm: The vehicle was moved based on timed intervals, utilizing a Python timer to control the sequence of movements.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7023b96-41a7-43e5-80bd-4fd0c362f79b" alt="Description">
+  <img src="https://github.com/user-attachments/assets/ecf9dbce-6cd9-41f4-8d9e-e99f2afe487c" alt="Description">
 </p>
 
 
 ## Milestone 2: Closed Loop Control & Object Detection
 This milestone comprised two main tasks:
 
-Task 1: 
+### Task 1: 
 Implement a closed-loop controller to navigate the car, leveraging odometry feedback for precise movement. To simulate real-world conditions, Gaussian noise was added to the odometry data, making the system more realistic. The readings were then refined and stabilized using a Kalman filter algorithm, enhancing the overall accuracy and reliability of the car's navigation.
 - Gaussian Noise established from Matlab.
 - Kalman Filter.
@@ -52,7 +50,7 @@ Implement a closed-loop controller to navigate the car, leveraging odometry feed
   <img src="https://github.com/user-attachments/assets/c2a1951f-c1e3-46ca-9080-d78c3c67dab4" alt="Description">
 </p>
 
-Task 2: 
+### Task 2: 
 Perform object detection within the simulation environment. This involved detecting both static and dynamic objects such as humans, cars, and cones. We achieved this by training a YOLOv7 model and quantizing it for efficient, real-time object detection using ONNX.
 
 <p align="center">
