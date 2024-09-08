@@ -15,7 +15,7 @@ In the real demo, we secured an impressive 2nd place overall.
 
 ![455833478_829934979326065_6699800269364222313_n](https://github.com/user-attachments/assets/d6857687-a95c-477d-9087-be4c96f0863f)
 
-The competition was divided into three key milestones:
+# The competition was divided into three key milestones:
 All the given environment is designed by us.
 
 ## Milestone 1: Open Loop Control
